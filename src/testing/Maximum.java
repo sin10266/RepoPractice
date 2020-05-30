@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Manjot Singh
+ * @author Manjot Singh - May 2020
  */
 public class Maximum {
     public static void main(String[] args)
