@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Manjot Singh - No Date
+ * @author Manjot Singh - Today's Date - 30 May 2020
  */
 public class Maximum {
     public static void main(String[] args)
